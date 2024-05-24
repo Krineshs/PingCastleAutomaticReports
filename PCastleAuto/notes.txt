@@ -1,0 +1,8 @@
+# *PingCastleAutomation Script* #
+# Todo
+# Add other cmds
+# turn into api check out flask
+# maybe replace pandas dataframe w sql database can query easier
+# implement dates instead of test numbers
+# remove previous comparisons - doesn't work via concat or merge = returns old but not new
+#Bind to TheHive or n8n > Hive
